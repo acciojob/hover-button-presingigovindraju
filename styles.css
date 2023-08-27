@@ -3,8 +3,9 @@
 #btn{
 	Background-Color:black;
 	color:white;
-	borddeer-radius:0px;
+	border-radius:0px;
 	border:none;
+	box-sizing:border-box;
 }
 #btn:hover{
 	Background-Color:yellow;
